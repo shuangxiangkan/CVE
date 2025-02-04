@@ -8,3 +8,8 @@ lunasvg: CVE-2024-55456
 https://github.com/sammycage/lunasvg/issues/199
 
 lunasvg v3.0.1 was discovered to contain a segmentation violation via gray_find_cell.
+
+xlsxio: CVE-2024-56849
+https://github.com/brechtsanders/xlsxio/issues/136
+
+xlsxio 0.2.36 contains a Segmentation Fault in example_xlsxio_read.c.
